@@ -27,6 +27,13 @@ Incluye proyecto final: **Gestor de Contactos** por consola.
 
 ---
 
+## 📖 Estudios
+- Python jr developer: Centro de capacitación Villa Martelli
+- Introduction to Python for Developers: DataCamp
+- Intermediate Python for Developers: DataCamp
+
+---
+
 ## 📍 Sobre mí
 - 📍 Buenos Aires, Argentina
 - 🎯 Objetivo: Backend Developer with AI Integration
