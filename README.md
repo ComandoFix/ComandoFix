@@ -1,45 +1,35 @@
-# Soy Emanuel Matarazzo 👋
-### Backend Developer in Training | Python · AI Integration
+# ⚡ Emanuel Matarazzo | Backend Developer
 
-Soy un desarrollador backend en formación con foco en integración de IA.
-Construyo proyectos reales desde cero mientras avanzo en mi roadmap técnico.
 
----
-
-## 🛠️ Stack actual
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-
-## 📚 Aprendiendo
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+### 🚀 Sobre mí
+Soy un desarrollador enfocado en el **Backend**.
+Mi objetivo es construir sistemas robustos que sean el motor de grandes ideas. 
 
 ---
 
-## 🚀 Proyectos
+### 🛠️ Mi Stack Tecnológico
 
-### 🗂️ [python-fundamentos](https://github.com/ComandoFix/python-fundamentos)
-Ejercicios y proyectos del aprendizaje de Python desde cero.
-Incluye proyecto final: **Gestor de Contactos** por consola.
-`Python` `OOP` `Git`
-
----
-
-## 📖 Estudios
-- Python jr developer: Centro de capacitación Villa Martelli
-- Introduction to Python for Developers: DataCamp
-- Intermediate Python for Developers: DataCamp
+| Categoría | Tecnologías y Nivel |
+| :--- | :--- |
+| **Lenguajes** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) **Avanzado** <br> ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) **En formación** |
+| **Bases de Datos** | ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white) **En formación** |
+| **Web Frontend** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) **Bases sólidas** |
 
 ---
 
-## 📍 Sobre mí
-- 📍 Buenos Aires, Argentina
-- 🎯 Objetivo: Backend Developer with AI Integration
-- 💼 Disponible para pasantías y roles junior remotos
+### 📈 Formación Profesional & Certificaciones
+* 🐍 **DataCamp:** Intermediate Python for Developers (Finalizado).
+* ☕ **Ecosistema Java:** Profundizando en POO, Clases y Estructuras de Datos.
+* 📊 **SQL:** Modelado y gestión de bases de datos relacionales.
 
 ---
 
-## 📫 Contacto
+### 🎯 Proyectos en curso
+- 🛠️ Refactorización de lógica de gestión de tareas de Python a Java.
+- 📡 Integración de APIs de terceros en entornos de servidor.
+- 🏗️ Construcción de la identidad visual de **Comando Fix**.
+
+---
+
+### 📫 Contacto
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/emanuelmatarazzo)
